@@ -1,3 +1,7 @@
+> **Personal source fork:** [upstream source](https://github.com/tiliondev/fortress). The package/release links below name their own publishers; they are not releases of this fork. Use the existing installation and MCP sections for those distributions. Fork divergence has not been assessed in this documentation review.
+
+---
+
 <div align="center">
 
 <img alt="Fortress" src="docs/assets/banner-fortress.png" width="100%">
@@ -94,7 +98,7 @@ pip install -U tilion-fortress       # or:  docker run --rm -p 9222:9222 tilion/
 | | |
 |---|---|
 | **[What it is](#what-it-is)** · **[Quick start](#quick-start)** | what it is, install, first script, AI-agent setup |
-| **[The Fortress MCP](#the-fortress-mcp--stealth-browsing-as-agent-tools)** | 29 stealth-browser tools for AI agents (Beta) |
+| **[The Fortress MCP](#the-fortress-mcp--stealth-browsing-as-agent-tools-beta)** | 29 stealth-browser tools for AI agents (Beta) |
 | **[Why patch the engine, not the page](#why-patch-the-engine-not-the-page)** | the self-revealing-JS thesis + the three detection layers |
 | **[How Fortress compares](#how-fortress-compares)** | vs puppeteer-stealth · Camoufox · CloakBrowser · closed vendors |
 | **[Proof: live-detector results](#proof-live-detector-results)** | CreepJS / Sannysoft / BrowserScan / Cloudflare, with screenshots |
