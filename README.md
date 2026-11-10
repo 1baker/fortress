@@ -1,3 +1,20 @@
+> **About this copy:** this is a personal fork of [tiliondev/fortress](https://github.com/tiliondev/fortress). The original project's documentation continues below.
+
+**In one sentence:** Fortress is a Chromium-based browser engine for automated browsing and collecting information from websites.
+
+**Who it is for:** Developers building automated browsing or web-scraping tools.
+
+**How it works:**
+
+```mermaid
+flowchart LR
+    Script[Your script] --> F[Fortress browser engine]
+    F --> Web[Websites]
+    Web --> Data[Collected page data]
+```
+
+---
+
 > **Personal source fork:** [upstream source](https://github.com/tiliondev/fortress). The package/release links below name their own publishers; they are not releases of this fork. Use the existing installation and MCP sections for those distributions. Fork divergence has not been assessed in this documentation review.
 
 ---
